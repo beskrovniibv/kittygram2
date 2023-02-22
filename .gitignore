@@ -1,4 +1,5 @@
 flake8.txt
+token
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
